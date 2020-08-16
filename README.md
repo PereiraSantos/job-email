@@ -74,7 +74,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
   Nest is [MIT licensed](LICENSE).
   
-## Teste
+## Teste com Docker
     $ docker pull mailhog/mailhog
     $ docker run -d -p 1025:1025 -p 8025:8025 mailhog/mailhog
     $ localhost:8025 ou 127.0.0.1:8025
